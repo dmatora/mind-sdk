@@ -14,6 +14,7 @@ export declare const NATIVE: {
     56: Binance;
     97: Binance;
     42161: Ether;
+    421613: Ether;
     43114: Avalanche;
     43113: Avalanche;
     128: Heco;

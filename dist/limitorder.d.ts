@@ -75,7 +75,7 @@ export declare class LimitOrder {
             }[];
         };
         primaryType: string;
-        domain: import("./entities").Domain;
+        domain: import("@mindgames/sdk/src/entities").Domain;
         message: Message;
     };
     getTypeHash(): string;
