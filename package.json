@@ -1,14 +1,14 @@
 {
   "name": "@mindgames/sdk",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🛠 A SDK for mindgames defi applications",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/cryptrend/mind-sdk.git",
+  "repository": "https://github.com/dmatora/mind-sdk.git",
   "module": "dist/sdk.esm.js",
   "scripts": {
     "lint": "tsdx lint src test",
